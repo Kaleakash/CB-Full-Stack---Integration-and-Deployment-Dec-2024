@@ -22,7 +22,6 @@ INDEX VERSION 1.134+D:\Desktop\CB Full Stack - Integration and Deployment Dec 20
 1514550390.index
 3649389339.index
 3539646161.index
-2873393988.index
 2695686227.index
 2660072425.index
 3420712728.index
