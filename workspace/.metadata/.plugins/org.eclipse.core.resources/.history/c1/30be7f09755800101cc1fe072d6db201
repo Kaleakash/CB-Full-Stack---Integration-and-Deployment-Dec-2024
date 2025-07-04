@@ -1,0 +1,2 @@
+spring.application.name=erueka-server
+server.port=8761
