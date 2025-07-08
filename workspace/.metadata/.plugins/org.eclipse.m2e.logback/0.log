@@ -2021,3 +2021,34 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2025-07-04 09:12:55,851 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-07-04 09:12:55,856 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-07-04 09:12:55,858 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-08 06:33:32,331 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-07-08 06:35:57,926 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-08 06:35:57,948 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-08 06:35:57,953 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-08 06:37:16,494 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-08 06:37:16,502 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-08 06:37:16,507 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-08 06:38:22,777 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-08 06:38:22,781 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-08 06:38:22,788 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-08 06:39:07,905 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-08 06:39:07,913 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-08 06:39:07,917 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-08 06:43:55,327 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-08 06:43:55,336 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-08 06:43:55,339 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-08 06:44:58,344 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-08 06:44:58,358 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-08 06:44:58,361 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-08 06:54:16,094 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-08 06:54:16,101 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-08 06:54:16,104 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-08 07:01:03,327 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-08 07:01:03,333 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-08 07:01:03,336 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-08 07:03:55,820 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-08 07:03:55,824 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-08 07:03:55,828 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-08 07:04:48,335 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-08 07:04:48,340 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-08 07:04:48,342 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources

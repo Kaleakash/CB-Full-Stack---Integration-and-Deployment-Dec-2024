@@ -14,7 +14,7 @@ const routes: Routes = [
   {path:"changePassword",component:ChangePasswordComponent},
   {path:"admin-home",component:AdminDashboardComponent},
   {path:"customer-home",component:CustomerDashboardComponent},
-  {path:"login",redirectTo:"",pathMatch:"full"},
+  {path:"login",redirectTo:"",pathMatch:"full"}
 ];
 
 @NgModule({
