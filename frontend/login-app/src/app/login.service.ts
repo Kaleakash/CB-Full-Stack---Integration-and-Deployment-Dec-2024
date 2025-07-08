@@ -12,7 +12,7 @@ export class LoginService {
   constructor(private httpClient:HttpClient) { }  // DI for HttpClient 
 
   signIn(login:Login):Observable<string>{
-    return this.httpClient.post(`${this.lOGIN_BASE_URL}/signin`, login, {responseType: 'text'});
+    return this.httpClient.post(`${this.lOGIN_BASE_URL}/signIn`, login, {responseType: 'text'});
   }
 
   
