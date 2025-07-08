@@ -2,6 +2,7 @@ package com.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+import jakarta.persistence.Transient;
 
 @Entity
 public class Login {
@@ -9,6 +10,14 @@ public class Login {
 private String emailid;
 private String password;
 private String typeofuser;
+@Transient
+private String changePassword;
+public String getChangePassword() {
+	return changePassword;
+}
+public void setChangePassword(String changePassword) {
+	this.changePassword = changePassword;
+}
 public String getEmailid() {
 	return emailid;
 }

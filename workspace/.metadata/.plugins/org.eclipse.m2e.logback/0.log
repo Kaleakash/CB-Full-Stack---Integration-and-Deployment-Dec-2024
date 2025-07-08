@@ -2006,3 +2006,18 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
 	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-07-04 08:54:03,692 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 08:54:03,698 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 08:54:03,702 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-04 09:10:31,603 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 09:10:31,615 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 09:10:31,619 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-04 09:11:59,965 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 09:11:59,972 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 09:11:59,975 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-04 09:12:08,021 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 09:12:08,027 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 09:12:08,031 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources
+2025-07-04 09:12:55,851 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-04 09:12:55,856 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-04 09:12:55,858 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Desktop\CB Full Stack - Integration and Deployment Dec 2024\workspace\login-micro-service\login-micro-service\src\test\resources

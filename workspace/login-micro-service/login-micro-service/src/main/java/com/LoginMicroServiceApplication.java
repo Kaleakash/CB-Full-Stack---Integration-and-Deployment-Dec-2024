@@ -37,6 +37,9 @@ public class LoginMicroServiceApplication {
 		ll.setPassword("admin@123");
 		ll.setTypeofuser("admin");
 		
+		StringBuffer sb = new StringBuffer(ll.getPassword());		// actual password is admin@123 
+		sb.reverse();											// 321@nimda
+		ll.setPassword(sb.toString());
 		Optional<Login> result = loginRepository.findById(ll.getEmailid());
 		if(result.isPresent()) {
 			System.out.println("Admin account present");

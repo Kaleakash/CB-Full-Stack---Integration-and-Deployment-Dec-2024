@@ -3,6 +3,7 @@ package com.controller;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -34,5 +35,15 @@ public class LoginController {
 	@PostMapping(value = "signUp",consumes = MediaType.APPLICATION_JSON_VALUE)
 	public String signUp(@RequestBody Login login) {
 		return loginService.signUp(login);
+	}
+	
+	// http://localhost:9090/login/changePassword
+		// method : put
+		// data : {"emailid":"steven@gmail.com","password":"steven@123","changePassword":"steven@1234"}
+	
+	@PutMapping(value="changePassword",consumes = MediaType.APPLICATION_JSON_VALUE)
+	public String changePassword(@RequestBody Login login) {
+		
+		return loginService.changePassword(login);
 	}
 }
