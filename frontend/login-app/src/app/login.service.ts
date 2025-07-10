@@ -15,5 +15,8 @@ export class LoginService {
     return this.httpClient.post(`${this.lOGIN_BASE_URL}/signIn`, login, {responseType: 'text'});
   }
 
+  signUp(login:Login):Observable<string>{
+    return this.httpClient.post(`${this.lOGIN_BASE_URL}/signUp`, login, {responseType: 'text'});
+  }
   
 }
